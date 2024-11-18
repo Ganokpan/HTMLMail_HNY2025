@@ -14,6 +14,8 @@ Extension **GMass** โหลดจาก Chrome
 5. Link ที่ได้จะเป็นดังนี้ https://drive.google.com/file/d/1abc123XYZ/view?usp=sharing
 6. เปลี่ยนแปลง Link ให้อยู่ในรูปแบบ https://drive.google.com/uc?id=FILE_ID
 7. จะได้ดังนี้ https://drive.google.com/uc?id=1abc123XYZ
+8. ภายในหน้า Gmail กด F12
+9. จากนั้นเปลี่ยน Link รูปภาพ โดยเอา Link ในข้อ 7 ไปใส่แทนที่รูปเก่า
 
 ## คัดลอกโค้ดในไฟล์ **Templeted_Email** วางผ่าน Gmass จากนั้นปรับแต่งรูปและข้อความตามต้องการ
 
