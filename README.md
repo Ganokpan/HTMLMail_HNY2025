@@ -6,6 +6,10 @@ Extension **GMass** โหลดจาก Chrome
 
 ![GMass](/Gmass.png "GMass")
 
+## คัดลอกโค้ดในไฟล์ **Templeted_Email** วางผ่าน Gmass จากนั้นปรับแต่งรูปและข้อความตามต้องการ
+
+![imgMail](/imgMail.png "imgMail")
+
 # กรณีต้องการเปลี่ยนรูปภาพโดยฝากภาพไว้ที่ Google Drive 
 1. Upload ภาพขึ้น Google Drive
 2. ตั้งค่าการเข้าถึงให้เป็น ทุกคนที่มีลิงก์ (Anyone with the link)
@@ -17,7 +21,4 @@ Extension **GMass** โหลดจาก Chrome
 8. ภายในหน้า Gmail กด F12
 9. จากนั้นเปลี่ยน Link รูปภาพ โดยเอา Link ในข้อ 7 ไปใส่แทนที่รูปเก่า
 
-## คัดลอกโค้ดในไฟล์ **Templeted_Email** วางผ่าน Gmass จากนั้นปรับแต่งรูปและข้อความตามต้องการ
-
-![imgMail](/imgMail.png "imgMail")
 
