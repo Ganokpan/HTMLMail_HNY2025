@@ -6,7 +6,7 @@ Extension **GMass** โหลดจาก Chrome
 
 ![GMass](/Gmass.png "GMass")
 
-## นำโค้ดไปวางโดยวางผ่าน Gmass จากนั้นปรับแต่งรูปและข้อความตามต้องการ
+## คัดลอกโค้ดในไฟล์ **Templeted_Email** วางผ่าน Gmass จากนั้นปรับแต่งรูปและข้อความตามต้องการ
 
 ![imgMail](/imgMail.png "imgMail")
 
