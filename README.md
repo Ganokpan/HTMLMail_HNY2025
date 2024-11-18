@@ -10,6 +10,8 @@ Extension **GMass** โหลดจาก Chrome
 
 ![imgMail](/img/imgMail.png "imgMail")
 
+cr. https://github.com/konsav/email-templates/
+
 # กรณีต้องการเปลี่ยนรูปภาพโดยฝากภาพไว้ที่ Google Drive 
 1. Upload ภาพขึ้น Google Drive
 2. ตั้งค่าการเข้าถึงให้เป็น ทุกคนที่มีลิงก์ (Anyone with the link)
