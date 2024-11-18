@@ -1,3 +1,5 @@
-#HTML Mail in Gmail
+# HTML Mail in Gmail
+
 สิ่งที่ต้องเตรียม 
-Extension GMass โหลดจาก Chrome
+
+Extension **GMass** โหลดจาก Chrome
